@@ -10,13 +10,10 @@
 object **Hi** {
  val name = "Yessica Lourdes Rodriguez Muñoz"
  val acknowledgements = "Fullstack Web Developer"
- val languages = listOf("React Js",
-                        " Node js", 
-                        "Sequelize", 
-                        "JavaScript", 
-                        "Wordpress", 
-                        "HTML", 
-                        "CSS") 
+ val languages = listOf("React Js", " Node js", 
+                        "Sequelize", "JavaScript", 
+                        "Wordpress", "HTML", 
+                                     "CSS") 
 
 }
 ```
