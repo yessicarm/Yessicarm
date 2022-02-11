@@ -12,8 +12,8 @@ object **Hi** {
  val acknowledgements = "Fullstack Web Developer"
  val languages = listOf("React Js", " Node js", 
                         "Sequelize", "JavaScript", 
-                        "Wordpress", "HTML", 
-                                     "CSS") 
+                        "Wordpress", "HTML", "CSS") 
+                                     
 
 }
 ```
