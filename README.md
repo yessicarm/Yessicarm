@@ -1,6 +1,8 @@
 ### Hi there 👋
 
- La capacidad de crear e innovar con el uso de la tecnología es lo que me llevo a dedicarme al Desarrollo Web , amante del diseño, las interfaces gráficas y el análisis de la interacción con el cliente me ha llevado a combinar mi proceso de aprendizaje de programación con mis habilidades de Diseño Gráfico principalmente en FrondEnd sin dejar de lado mis habilidades para poder crear proyectos desde cero desde el Backend . 
+👩‍💻The ability to create and innovate using technology has led me to dedicate myself to Web Development. My love for the design of graphical interfaces and analysis of customer interaction has enabled me to increase my frontend design skills as well as my backend development.
+
+✨Enthusiasm, being one of my predominant strengths, motivates me to seek opportunities that allow me to increase my ability to generate ideas with new knowledge or technologies.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
@@ -9,7 +11,7 @@
 ```kotlin
 object **Hi** {
  val name = "Yessica Lourdes Rodriguez Muñoz"
- val acknowledgements = "Fullstack Web Developer"
+ val acknowledgements = "Web Developer"
  val languages = listOf("React Js", " Node js", 
                         "Sequelize", "JavaScript", 
                         "Wordpress", "HTML", "CSS") 
